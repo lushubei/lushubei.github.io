@@ -1,48 +1,64 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
-
-Hi, I am _@huxpro_ (Huang, Xuan), a will-be [Facebook](https://www.facebook.com/) software engineer and a professed digital designer. My interests range from programming languages in general (type system, type-based formal verification, compiler construction, runtime system) to indurstial software engineering (web/mobile app development, user interface and UX, developer infra and DX). 
-
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at a unicorn startup [Beijing Weiying (WePiao)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
-
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology), with a focus on programming languages theory and construction.
+> 离开世界之前，一切都是过程。
 
 
-##### My Programming Languages Spectrum
+Hi，我是书备，喜欢徒步、旅游、科幻电影、打篮球和球鞋。写代码、设计产品、画原型
 
-I generally prefer languages that are close to ML ("Meta Language"), i.e. _mostly functional programming_. This should explain most of my picks e.g. JavaScript within dynamically-typed's, Scala within JVM's, Rust within unmanaged's.
+后端研发工程师同时也是一名技术管理者，做过Python工程师，也做过Java工程师，有大型电商、仓储、资讯及供应链金融系统等从0到1的经验，也设计过物联网系统,投资研究平台等项目。
 
-> __Left-right__ is how much I prefer it.  __Top-down__ is how much I know it. __Versions__ are lower bounds.
+曾在华为做过云计算开发工程师，也在中国移动做过网络优化工程师，互联网公司做过电商。
+带过数十人的技术产品团队，深入研究研发管理的各种理论与实践。scrum master认证教练。
 
-|     | 💔️           | ❤️ ️                   | ❤️❤️ ️             | ❤️❤️❤️ ️               |
-| --- | ------------- | ---------------------- | ------------------ | ---------------------- |
-| 😅  | `PHP` `BASIC` | `ObjC` `Prolog` `Hack` | `Kotlin` `Dart`    | `Swift` `Agda` `Idris` |
-| 🧐  |               | `Asm` `C++`  `Lisp*`   | `C++11` `C#` `AS3` | `Scala` `Rust`         |
-| 😏  | `Shell`       | `C` `Java` `Python`    | `Typed JS*` `Wasm` | `Haskell` `Coq` `ML*`  |
-| 🤓  |               | `JavaScript`           | `ECMAScript6`      | `λ` `Λ` `Π` `Σ`        |
+##### 喜欢的座右铭
+```
+1. 报酬不是和你的劳动成正比，而是和劳动的稀缺性成正比.
+2. 说no或“现在不行”比答应做一件事却没有办到要好得多.
+3. 如果你必须吃掉一只青蛙，不要长时间盯着它看。如果你必须连着吃掉三只青蛙，记得要先吃掉最大、最丑的那只.
+4. 日事日毕，日清日高
+5. 自己的‘猴子’自己背
+6. 追求专业
+7. 合法挣钱，是最有尊严的事.
+```
 
-> __`ML*`__: `OCaml` `ReasonML` `Standard ML`  
-> __`Lisp*`__: `Clojure` `Scheme` `Racket`  
-> __`Typed JS*`__：`Flow` `TypeScript`
 
+##### 个人做事原则：
+```
+1. 凡事有计划、计划有轻重缓急
+2. 把事情做成
+3. 闭环思想
+4. 复盘
+```
 
-##### Talks
+##### 遵循的时间管理法则：
+```
+重要紧急的事情立马做
+重要不紧急的事有计划的做
+不重要紧急的事交给别人做
+不重要不紧急的事少做勿沉溺
+```
+##### 
+```
+个人使命－－帮助客户成功
+愿景－－成为一名受人尊敬的技术管理人员
+价值观－－实事求是，闭环
+```
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+##### 追求目标
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+|项目|具体方式|其他|
+|-|--|
+|国际化的视野|英语+出国游|-|
+|科学的管理方法|管理理论+实践|-|
+|从零到一的技术实现能力|Java+python|-|
+|健康的体魄|篮球+徒步|-|
+|和谐的人际|交际|-|
+
+leader的能力：分轻重缓急的能力、如何处理轻重缓急
+
+##### 专业技能
+
+> __`办公工具` 技能__：`powerBI` `TableUi` `Standard ML`  
+> __`开发语言` 技能__：`Java` `Python` `Spring` `Spring boot/cloud` `Django` `Scrapy` `Pandas` `Numpy` `C/C++`
+> __`中间件` 技能__： `mysql` `redis` `mqtt`
+> __`运维技能` 技能__：`Linux,MacOs,Windows` `vmware/osxi/vcenter` `docker` `k8s` `nginx` `jekins`  `git/svn`
+> __`产品设计` 技能__：`Axure` `需求分析`
+> __`团队管理` 技能__：`Scrum` `Kanban` `Devops`
