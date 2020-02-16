@@ -3,7 +3,7 @@ title: Shubei Blog
 SEOTitle: 书备的博客 | Shubei Blog
 header-img: img/home-bg.jpg
 email: lushubeivip@163.com
-description: "关于程序与设计、黑客与画家 | 书备，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @shubei书备 的个人博客，与你一起发现更大的世界。"
+description: "关于程序与设计、黑客与鞋子 | 书备，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @shubei书备 的个人博客，与你一起发现更大的世界。"
 keyword: "书备, Shubei书备, Shubei, 鬼栈, lushubei, @shubei, 书备的博客, Shubei Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://lushubei.gjthub.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: shubei
 
 # Netease settings
 netease_comment: false
