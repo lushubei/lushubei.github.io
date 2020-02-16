@@ -112,13 +112,12 @@ root@e2e84126cfd9:/#
 ```
 
 #### 拷贝文件到容器中
-```
+
 从宿主机拷贝到虚拟机
-docker cp toContenor mysql8.0:/home/
-
 从虚拟机拷贝到宿主机
+```
+docker cp toContenor mysql8.0:/home/
 docker cp mysql8.0:/home/toContenor .
-
 ```
 
 #### 将容器commit成为一个镜像
