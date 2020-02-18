@@ -29,3 +29,4 @@ tags:
 1. 使用截图
 2. Contrl + V 保存
 3. git 上传即可 
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/71988604140144.jpg?Expires=4735636077&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=gFGsITp27FhvTOEqjCrMvpkndUw%3D)
