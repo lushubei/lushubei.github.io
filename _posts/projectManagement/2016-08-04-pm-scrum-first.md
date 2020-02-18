@@ -42,7 +42,8 @@ Scrum的英文意思是橄榄球运动的一个专业术语，表示“争球”
  
 Scrum流程图
 
-![](.2016-08-04-pm-scrum-first_images/scrumModel.jpg)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57020506498206.png?Expires=4735613506&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=cOBowWRdlze0QjPN0X3NO05J4sY%3D)
+
 //------------------------
 下面，我们开始讲具体实施流程，但是在讲之前，我还要对一个英文单词进行讲解。
 **** 什么是Sprint？
@@ -60,20 +61,21 @@ Sprint是短距离赛跑的意思，这里面指的是一次迭代，而一次�
  
  
 下面是运用Scrum开发流程中的一些场景图：
-![](.2016-08-04-pm-scrum-first_images/productBacklog.jpg)
+
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57057421791429.png?Expires=4735613543&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=WOVZj87iicrNZ4fZJMa4wOtJlc4%3D)
 上图是一个 Product Backlog 的示例。
  
-![](.2016-08-04-pm-scrum-first_images/standDaily.jpg)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57082850854490.png?Expires=4735613569&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=oglXLyGd0m3NK7Qhuh3X8zUw3Cc%3D)
 上图就是每日的站立会议了，参会人员可以随意姿势站立，任务看板要保证让每个人看到，当每个人发言完后，要走到任务版前更新自己的燃尽图。
 
 
-![](.2016-08-04-pm-scrum-first_images/taskBan.jpg)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57103452063308.png?Expires=4735613589&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=FwqrHGC4PlUCcLN2srBMIQs%2FvrE%3D)
 任务看版本包含 未完成、正在做、已完成 的工作状态，假设你今天把一个未完成的工作已经完成，那么你要把小卡片从未完成区域贴到已完成区域。
 
  
-![](.2016-08-04-pm-scrum-first_images/taskBan2.jpg)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57126970654834.png?Expires=4735613613&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=ampX%2BXuhC7aeaoYVZSf%2FNZtlWO4%3D)
 每个人的工作进度和完成情况都是公开的，如果有一个人的工作任务在某一个位置放了好几天，大家都能发现他的工作进度出现了什么问题（成员人数最好是5~7个，这样每人可以使用一种专用颜色的标签纸，一眼就可以从任务版看出谁的工作进度快，谁的工作进度慢）
  
- ![](.2016-08-04-pm-scrum-first_images/timeCard.jpg)  
- 上图可不是扑克牌，它是计划纸牌，它的作用是防止项目在开发过程中，被某些人所领导。
- 怎么用的呢？比如A程序员开发一个功能，需要5个小时，B程序员认为只需要半小时，那他们各自取相应的牌，藏在手中，最后摊牌，如果时间差距很大，那么A和B就可以讨论A为什么要5个小时...
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/57148365515034.png?Expires=4735613634&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=vxJU332iKIlm4IQ4UDQHe0MUpfI%3D)
+上图可不是扑克牌，它是计划纸牌，它的作用是防止项目在开发过程中，被某些人所领导。
+怎么用的呢？比如A程序员开发一个功能，需要5个小时，B程序员认为只需要半小时，那他们各自取相应的牌，藏在手中，最后摊牌，如果时间差距很大，那么A和B就可以讨论A为什么要5个小时...
