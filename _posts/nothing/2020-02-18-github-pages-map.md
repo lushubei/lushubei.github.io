@@ -31,4 +31,8 @@ tags:
 3. git 上传即可 
 ![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/71988604140144.jpg?Expires=4735636077&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=gFGsITp27FhvTOEqjCrMvpkndUw%3D)
 
+测试如何显示本地图片下方404
 ![](/img/404-bg.jpg)
+
+测试如何显示本地图片下方上个文件夹404../img/404-bg.jpg
+![](../img/404-bg.jpg)
