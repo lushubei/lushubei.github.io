@@ -3,6 +3,7 @@ layout: post
 title: "Docker安装mysql"
 subtitle: 'Docker使用简要'
 author: "Shubei"
+date: 2019-02-04 12:00:00
 header-style: text
 tags:
   - Docker

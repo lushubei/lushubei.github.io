@@ -2,6 +2,7 @@
 layout: post
 title: "Windows-nginx、flup、django 部署稳定应用"
 subtitle: ''
+date: 2019-01-15 12:00:00
 author: "Shubei"
 header-style: text
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Git常用命令"
 subtitle: 'Git commond'
 author: "Shubei"
+date: 2018-10-06 12:00:00
 header-style: text
 tags:
   - Git

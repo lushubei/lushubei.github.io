@@ -3,6 +3,7 @@ layout: post
 title: "LINUX auto settime"
 subtitle: ""
 author: "Shubei"
+date: 2017-12-12 12:00:00
 header-img: "img/post-bg-infinity.jpg"
 header-mask: 0.3
 mathjax: true
