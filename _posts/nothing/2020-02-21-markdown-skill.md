@@ -1,7 +1,7 @@
 ---
 layout:     post   
-title:      "新文章"   
-subtitle:   "a new blog"  
+title:      "IDEA配置markdown格式文件代码模板"   
+subtitle:   "提高idea写github pages博客的效率"  
 date:       2020-02-21  
 author:     "Shubei"  
 header-img: "img/post-bg-2015.jpg"  
@@ -42,3 +42,5 @@ tags:
 ![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-21/582980107122500.png?Expires=4735878671&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=Rhu3ZFDjal1ggl2dq%2F3ZavwjP8o%3D)
 
 可以看到新建的文件已经自动填入我们预设的标识，我设置的标识是博客的格式头，少做了很多重复的事
+
+下一篇文章，将探讨如何在手机上利用git客户端，markdwon编辑器，代码编辑器随时随地便捷更新博客.
