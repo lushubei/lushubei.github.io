@@ -59,11 +59,20 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: shubei
+disqus_username: false
 
 # Netease settings
 netease_comment: false
 
+# valine_comment
+valine_comment: true
+
+# app_id
+leancloud_appid: UtTrgejSlvnnr3vGE5G9s0aL-9Nh9j0Va
+# app_key
+leancloud_appkey: 8jcpCLSutoC1ubDxCt9h3Uci
+# placeholde
+placeholder: “Just go go"
 
 
 # Analytics settings
