@@ -1,0 +1,17 @@
+<!-- Valine 无后端评论系统 start (一个网页只需插入一次) -->
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        //这里变量的取值在网站配置文件里_config.yml
+        app_id: '{{ site.valine_comment.leancloud_appid }}',
+        app_key: '{{ site.valine_comment.leancloud_appkey }}',
+        placeholder:'{{ site.valine_comment.placeholder }}'
+        notify:false,
+        verify:false,
+        avatar:'mp',
+    });</script>
+
+<div id="vcomments"></div>
+<!-- Valine 无后端评论系统 公共JS代码 end -->
