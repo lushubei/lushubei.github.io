@@ -1,13 +1,12 @@
-<!-- Valine 无后端评论系统 -->
+<!-- Valine 无后端评论系统-->
+<div id="vcomments"></div>
 <script>
     new Valine({
+        av: AV,
         el: '#vcomments',
         //这里变量的取值在网站配置文件里_config.yml
         app_id: '{{ site.valine_comment.leancloud_appid }}',
         app_key: '{{ site.valine_comment.leancloud_appkey }}',
         placeholder:'{{ site.valine_comment.placeholder }}'
-<!--        notify:false,-->
-<!--        verify:false,-->
-<!--        avatar:'mp'-->
-    });</script>
-<!-- Valine 无后端评论系统 end -->
+    });
+</script>

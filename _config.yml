@@ -57,32 +57,23 @@ kramdown:
       start_line: 1
 
 
-
-# Disqus settings
-disqus_username: false
-
 # Netease settings
-netease_comment: false
+netease_comment: dehua
 
 # valine_comment
-valine_comment: true
-
-# app_id
-leancloud_appid: UtTrgejSlvnnr3vGE5G9s0aL-9Nh9j0Va
-# app_key
-leancloud_appkey: 8jcpCLSutoC1ubDxCt9h3Uci
-# placeholde
-placeholder: “Just go go"
+valine_comment:
+  enable: true
+   # app_id
+  leancloud_appid: UtTrgejSlvnnr3vGE5G9s0aL-9Nh9j0Va
+  # app_key
+  leancloud_appkey: 8jcpCLSutoC1ubDxCt9h3Uci
+  # placeholde
+  placeholder: 留下您的之言片语吧
 
 
 # Analytics settings
 # Baidu Analytics 
 # ba_track_id: [your track id]
-
-# Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
-
 
 
 # Sidebar settings
