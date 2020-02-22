@@ -61,11 +61,18 @@ layout: default
                 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
                 <!-- 网易云跟帖 评论框 end -->
                 {% endif %}
-                该出现一个评论框
+
+                {% if site.valine_comment %}
+                加载valine.html
+                <!-- Valine 引入对象构建  -->
+                {% include third-party/comments/valine.html %}
+                {% endif %}
+
                 {% if site.valine_comment %}
                  Valine 评论框 -->
+                <!-- Valine 评论框 begin -->
                  <div id="vcomments"></div>
-                  <!-- Valine 评论框 end -->
+                 <!-- Valine 评论框 end -->
                  {% endif %}
 
             </div>  
@@ -140,12 +147,6 @@ layout: default
     })();
 </script>
 <!-- disqus 公共JS代码 end -->
-{% endif %}
-
-{% if site.valine_comment %}
-<!-- Valine 无后端评论系统 start (一个网页只需插入一次) -->
-{% include third-party/comments/valine.html %}
-<!--&lt;!&ndash; Valine 无后端评论系统 公共JS代码 end &ndash;&gt;-->
 {% endif %}
 
 {% if site.anchorjs %}
