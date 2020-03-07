@@ -1,18 +1,18 @@
 ---
-layout:     post
-title:      "intellij社区版代替专业版"
-subtitle:   "解决收费问题"
-date:       2020-02-18 14:08:00
-author:     "Shubei"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
-tags:
+layout:     post  
+title:      "Intellij Idea社区版快速向markdown中插入图片"  
+subtitle:   "使用pasteimageintomarkdown存图片到阿里云oss服务"  
+date:       2020-02-18  
+author:     "Shpasteimageintomarkdownubei"  
+header-img: "img/post-bg-2015.jpg"  
+catalog: true  
+tags:  
     - 技术  
     - java  
-    - intellij  
+    - Idea
 ---
 
-#### 全面启用intlllij 社区版本
+#### 全面启用intlllij idea社区版本
 
 看看和专业版的不同，以及对平时工作的影响
 
@@ -28,7 +28,7 @@ tags:
 
 ##### 使用方法
 
-1. 使用截图
+1. 使用截图，或者复制本地图片  
 2. Contrl + V 保存
 3. git 上传即可 
 ![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-18/71988604140144.jpg?Expires=4735636077&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=gFGsITp27FhvTOEqjCrMvpkndUw%3D)
