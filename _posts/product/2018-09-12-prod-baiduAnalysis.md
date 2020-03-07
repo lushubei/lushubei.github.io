@@ -2,7 +2,7 @@
 layout:     post  
 title:      "百度统计调研"  
 subtitle:   "百度统计核心功能"  
-date:       2019-09-12  
+date:       2018-09-12  
 author:     "Shubei"  
 header-img: "img/post-bg-2015.jpg"  
 catalog: true  
