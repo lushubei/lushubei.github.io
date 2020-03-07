@@ -58,7 +58,7 @@ leader的能力：分轻重缓急的能力、如何处理轻重缓急
 
 > __`办公工具` 技能__：`powerBI` `TableUi` `Office`  
 
-> __`开发语言` 技能__：`Java` `Python` `Spring` `Spring boot/cloud` `Django` `Scrapy` `Pandas` `Numpy` `C/C++`
+> __`开发语言` 技能__：`Java` `Python` `Spring` `Spring boot/cloud` `Django` `Scrapy` `Pandas` `Numpy` 
 
 > __`中间件` 技能__： `mysql` `redis` `mqtt`
 
