@@ -5,7 +5,8 @@ subtitle: 'Git commond'
 author: "Shubei"
 date: 2018-10-06 12:00:00
 header-style: text
-tags:
+tags:  
+  - 技术  
   - Git
 ---
 git 常用命令

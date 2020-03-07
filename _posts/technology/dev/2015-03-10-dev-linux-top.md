@@ -6,8 +6,8 @@ date:       2015-03-10 12:00:00
 author:     "Shubei"
 header-img: "img/post-bg-apple-event-2015.jpg"
 tags:
-    - 知乎
-    - 产品
+    - 技术
+    - Dev
 ---
 # top 查看内存
 ```shell

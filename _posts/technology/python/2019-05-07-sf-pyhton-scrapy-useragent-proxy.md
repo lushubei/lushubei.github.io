@@ -7,9 +7,9 @@ date: 2019-05-07 12:00:00
 header-style: text
 hidden: true
 tags:
-  - SF (软件基础)
-  - QC (Quickcheck)
-  - 笔记
+  - 技术  
+  - Python  
+  - 爬虫  
 ---
 ## 1. middlewares.py
 

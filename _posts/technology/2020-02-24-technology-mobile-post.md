@@ -7,7 +7,10 @@ author:     "Shubei"
 header-img: "img/post-bg-2015.jpg"  
 catalog: true  
 tags:  
+    - 技术  
     - 奇淫巧计  
+    - markdown  
+    - git  
 ---
 
 > 有时希望在上厕所或睡在被窝的时候可以写下自己的真实所感，快速发布到博客。有时也可以浏览一些github上自己感兴趣的小项目。

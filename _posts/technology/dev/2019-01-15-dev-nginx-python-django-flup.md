@@ -5,7 +5,8 @@ subtitle: ''
 date: 2019-01-15 12:00:00
 author: "Shubei"
 header-style: text
-tags:
+tags:  
+  - 技术  
   - nginx
   - pyhton
   - dev

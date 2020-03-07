@@ -7,9 +7,9 @@ date: 2017-12-12 12:00:00
 header-img: "img/post-bg-infinity.jpg"
 header-mask: 0.3
 mathjax: true
-tags:
+tags:  
+  - 技术  
   - dev
-  - linux
 ---
 # 安装ntp
 ```

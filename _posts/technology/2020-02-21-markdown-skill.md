@@ -7,7 +7,10 @@ author:     "Shubei"
 header-img: "img/post-bg-2015.jpg"  
 catalog: true  
 tags:  
+    - 技术  
     - 奇淫巧计  
+    - markdown
+    - Idea  
 ---
 
 #### 设置自动编辑markdown的头

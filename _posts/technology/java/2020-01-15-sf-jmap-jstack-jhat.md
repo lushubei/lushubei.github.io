@@ -7,9 +7,8 @@ date: 2020-01-15
 header-style: text
 hidden: true
 tags:
-  - SF (软件基础)
-  - QC (Quickcheck)
-  - 笔记
+  - 技术  
+  - Java  
 ---
 jdk自带的分析工具
 jmap -- 导出堆信息(内存)

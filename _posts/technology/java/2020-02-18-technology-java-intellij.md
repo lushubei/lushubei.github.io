@@ -7,7 +7,9 @@ author:     "Shubei"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 无分类
+    - 技术  
+    - java  
+    - intellij  
 ---
 
 #### 全面启用intlllij 社区版本
