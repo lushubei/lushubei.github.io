@@ -2,7 +2,7 @@
 layout:     post  
 title:      "人为什么会挑事情来做"  
 subtitle:   "事物之前的区别是什么"  
-date:       2023-11-24  
+date:       2023-11-27  
 author:     "Shubei"  
 header-img: "img/post-bg-2015.jpg"  
 catalog: true  
