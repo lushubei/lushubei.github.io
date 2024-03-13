@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     shubei
-zhihu_username:     shubei
-github_username:    shubei
+weibo_username:     lushubei
+zhihu_username:     lu-shu-bei
+github_username:    lushubei
 #twitter_username:   shubei
 #facebook_username:  shubei
 #linkedin_username:  firstname-lastname-idxxxx
