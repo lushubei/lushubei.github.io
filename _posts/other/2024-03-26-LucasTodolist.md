@@ -41,7 +41,7 @@ tags:
 后面，我和他一起网上买了个小朋友用的todolist工具(下图这样)。那样就可以我不在家的时候，他就自己打卡了，我相信他可以做到的。
 ![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2024-03-26/14549039593611.png?Expires=4865018774&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=rS66nSvKCOyu7gEkTXyWx10RFzU%3D)
 
-我计划做一个激励策略：
+为了配合这个工具以及习惯养成，还需要做一个系统的激励策略：
 ```bazaar
 - 每日激励 - 娱乐时间
 - 周度激励 - 周末去他想去的地方玩 (达到一定条件)
@@ -49,4 +49,4 @@ tags:
 - 年度激励 - 奖励想要的高级乐高等 (达到一定条件)
 ```
 
-以上，先试试看，随时调整。
+以上，先试试看，希望可以对他有一点的帮助。
