@@ -10,20 +10,20 @@ tags:
     - 产品  
 ---  
 #### 路径转化漏斗
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163474600437568.png?Expires=4737175265&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=BgMJrsbgQyrfdEqKI8RekiXxmdM%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163474600437568.png?Expires=4737175265BgMJrsbgQyrfdEqKI8RekiXxmdM%3D)
 
 可方便找出页面间流量丢失情况  
 
 #### 上下游分析
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163549022914570.png?Expires=4737175340&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=fx63JmWbF2UDDEReOyVOllbFmuQ%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163549022914570.png?Expires=4737175340fx63JmWbF2UDDEReOyVOllbFmuQ%3D)
 
 #### 页面点击热力图  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163628501461092.png?Expires=4737175419&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=FJahOK8J11lZ9wC5e9afhWEP6iU%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163628501461092.png?Expires=4737175419FJahOK8J11lZ9wC5e9afhWEP6iU%3D)
 
 可用于优化页面布局  
 
 #### 用户洞察  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163699419932476.png?Expires=4737175491&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=xt6CNnxdWfEud%2BGa6QsNpdUE%2Fw8%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/163699419932476.png?Expires=4737175491xt6CNnxdWfEud%2BGa6QsNpdUE%2Fw8%3D)
 
 可用于进行典型用户分析    
 

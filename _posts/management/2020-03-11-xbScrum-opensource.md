@@ -40,4 +40,4 @@ tags:
 github上新建开源项目 easyScrum [前往](https://github.com/lushubei/easyScrum)
 
 #### 概览
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-11/584759702127000.jpg?Expires=4737507448&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=lJ3tlFCGL7tOtIbXIa5oI3nVU%2B0%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-11/584759702127000.jpg?Expires=4737507448lJ3tlFCGL7tOtIbXIa5oI3nVU%2B0%3D)

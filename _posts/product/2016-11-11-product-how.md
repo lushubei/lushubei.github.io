@@ -11,7 +11,7 @@ tags:
 ---  
 #### 职责  
 岗位职责：负责产品的规划和设计，以及产品生命周期的管理  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/160158192410431.png?Expires=4737171949&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=7lC4kdmF8L7zUfi2b1nsKVgDroA%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/160158192410431.png)
 
 核心能力：是想法  
 任何产品规划和实际的流程与规范只是为了更好地梳理与表达需求，使需求更加有条理和易懂，所以只要能够清晰地展现结果，那么形式是不限的。  
@@ -57,4 +57,4 @@ tags:
   把各类领域的产品(特别是工作相关的竞争)注册使用体验几遍。把这个产品玩精、玩透，分析和体验它的业务逻辑与交互体验。
   
 #### 最后来张图  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/161140786120097.png?Expires=4737172932&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=rNZ5SoF%2FpPY1Vkw3IXrdf4x%2FkJw%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-07/161140786120097.png)

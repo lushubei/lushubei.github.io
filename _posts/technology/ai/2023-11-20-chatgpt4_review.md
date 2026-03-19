@@ -11,7 +11,7 @@ tags:
 ---
 
 今天微软CEO唐纳德发文宣布openai创始人altman宣布将加盟微软。
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2023-11-20/369879668904699.png?Expires=4854084191&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=CWmRpE6a8wYxxF6xPVEvZzDWKOE%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2023-11-20/369879668904699.png?Expires=4854084191CWmRpE6a8wYxxF6xPVEvZzDWKOE%3D)
 
 太狗血了，上周六altman被董事会解除CEO职位，周一又回去上班了，CEO要更换董事人人员及管理机制，没谈妥，直接带团队一起，去微软了。
 

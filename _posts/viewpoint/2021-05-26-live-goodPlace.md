@@ -19,10 +19,10 @@ tags:
 每到个新地方常住，我都会到处找寻最近的图书馆，活动室。而现在，我喜欢这个新空间。
 
 非常庆幸，搬家后，旁边有个五峰书店，还有24小时的文化客厅。
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2021-05-26/1451632020187.png?Expires=4775636122&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=WsgobfmP8tqDeNiVJXaGag3MEQ8%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2021-05-26/1451632020187.png?Expires=4775636122WsgobfmP8tqDeNiVJXaGag3MEQ8%3D)
 
 这里交通便利、环境优美，是个文艺空间，回家只要5min、有电、有网、有氛围。每天下班，我都想过来坐坐，时间不要长，1个小时就好，做做未完成的工作，看看书，上上网，感觉真棒。
 周末，我会到这里坐半天，做做自己喜欢的事，想想未来，做做美梦。  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2021-05-26/2294794478137.png?Expires=4775636964&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=b6V6aAnyaVMO%2BZjbY2SHrobkIy0%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2021-05-26/2294794478137.png?Expires=4775636964b6V6aAnyaVMO%2BZjbY2SHrobkIy0%3D)
 
 真好，我有一个美好的小空间。

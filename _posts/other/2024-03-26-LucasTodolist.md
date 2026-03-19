@@ -30,7 +30,7 @@ tags:
 - [ ] 娱乐时间(动画片)
 - [ ] 9:30睡觉
 ```
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2024-03-26/13641316676389.png?Expires=4865017866&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=PvKyNacBmxNgEC0vmzxA%2FI8NNMc%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2024-03-26/13641316676389.png?Expires=4865017866PvKyNacBmxNgEC0vmzxA%2FI8NNMc%3D)
 
 大概到晚上8:00的时候，所有的任务都完成了，效果不错，大概比以前提前40min完成学习任务。于是让他看动画片25分钟，到时又送了5分钟给他。这时候，他已经可以乖乖的自己关电视了。
 
@@ -39,7 +39,7 @@ tags:
 刚和他一起做计划时，开始他不太感冒，抱怨任务太多，而且写字和海尼曼阅读对他是有难度的，他有点畏难情绪。我用一直跟他说的谚语鼓励他：“如果必须吃点三只青蛙，最容易的方法就是先吃掉最丑最大的那只”（时间管理的经典原则）。于是，我们就从最难的事情开始，每完成一项，就立马提醒他去打勾。慢慢的，他的热情和信心好像被点燃了，越来越顺利。睡觉之前，还拿着笔，把最后一项勾打掉。
 
 后面，我和他一起网上买了个小朋友用的todolist工具(下图这样)。那样就可以我不在家的时候，他就自己打卡了，我相信他可以做到的。
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2024-03-26/14549039593611.png?Expires=4865018774&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=rS66nSvKCOyu7gEkTXyWx10RFzU%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2024-03-26/14549039593611.png?Expires=4865018774rS66nSvKCOyu7gEkTXyWx10RFzU%3D)
 
 为了配合这个工具以及习惯养成，还需要做一个系统的激励策略：
 ```bazaar
