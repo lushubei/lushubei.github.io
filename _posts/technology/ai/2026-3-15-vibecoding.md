@@ -32,7 +32,7 @@ tags:
 - Axios（HTTP 请求）
 ```
 结果，他真的实现了：
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2026-03-16/103306712427899.png?Expires=49271904259SMduiFUJbW%2F%2FSVS1iDBKYRH%2FuI%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2026-03-16/103306712427899.png)
 
 然后我提了一些bug，给它修复，又让它改写为适配移动端，它都很好的实现了。
 
@@ -41,7 +41,7 @@ tags:
 
 大概等了1个小时，它经过了修改后，真的把这项工作给完成了。而且还自动进行了一些可用性测试。
 
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2026-03-16/103527366965701.png?Expires=49271906457PM0LeYN%2FINd3J5CE6YSepDgLME%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2026-03-16/103527366965701.png)
 
 当我登录系统，测试正常之后，这着实震惊到我了，所有tokens花费，大概70元，真的让我有种头皮发麻的感觉。我知道，一个新的时代到来了。我们的一套几个人开发几个月的系统，真的可以靠一个人，花1个月把它完成。
 

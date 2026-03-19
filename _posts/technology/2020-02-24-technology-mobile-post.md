@@ -30,7 +30,7 @@ tags:
 #### 代码编辑器
 **QuickEdit**
 支持多种语言  
-![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-24/824257728173800.png?Expires=4736119948OFD23l63uvXd1uwIWpa%2BkHclKHI%3D)
+![](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-02-24/824257728173800.png)
 
 #### markdown编辑器
 **MarkdownX**  
